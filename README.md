@@ -33,16 +33,16 @@
 ## ⚙️ Instalasi
 
 # Kloning repositori
-git clone https://github.com/frostyxsec/DrownFi.git
-cd DrownFi
+- git clone https://github.com/frostyxsec/DrownFi.git
+- cd DrownFi
 
 # (Opsional) Buat virtual environment
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 # Instal dependensi
-pip install scapy pyqt5 netifaces pandas mac-vendor-lookup matplotlib
+- pip install scapy pyqt5 netifaces pandas mac-vendor-lookup matplotlib
 
 # Instal aircrack-ng
-sudo apt update
-sudo apt install aircrack-ng
+- sudo apt update
+- sudo apt install aircrack-ng
