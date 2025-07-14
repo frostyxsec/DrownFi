@@ -1,5 +1,5 @@
 # DrownFi - WiFi Pentesting Tool
-
+<img src="https://raw.githubusercontent.com/frostyxsec/DrownFi/refs/heads/main/demo.png">
 **DrownFi** adalah alat pentesting jaringan WiFi berbasis GUI untuk Linux, dirancang untuk membantu penguji keamanan mengevaluasi kerentanan jaringan nirkabel. Dibangun dengan **Python**, **PyQt5**, dan **Scapy**, DrownFi menghadirkan antarmuka dengan visualisasi serangan dan fitur-fitur seperti pemindaian jaringan, pengelolaan koneksi perangkat, serta serangan deauthentication dan ARP spoofing.
 
 > ⚠️ **Peringatan Hukum:** Gunakan DrownFi hanya pada jaringan yang Anda miliki izin eksplisit. Penggunaan tanpa izin dapat melanggar hukum. Pengembang tidak bertanggung jawab atas penyalahgunaan alat ini.
